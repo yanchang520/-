@@ -1,0 +1,103 @@
+body{
+	background:#FFF;
+    font-size:14px;
+}
+
+a{
+	color:#000;
+	text-decoration:none;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	list-style:none;
+}
+
+img{
+	vertical-align:top;
+}
+
+.mui-content{
+	background:#FFF;
+}
+
+.footer,.header{
+	background:#006699;
+	
+}
+
+.header .mui-title{
+	color:#FFF;
+}
+
+.header .mui-icon{
+	color:#FFF;
+}
+
+.footer .mui-tab-item{
+	color:#FFF;
+}
+
+.footer .mui-tab-item.mui-active{
+	color:darkorange;
+}
+
+
+.content{
+    padding: 44px 10px 50px 10px;
+}
+.mui-content{
+	text-align: center;
+	padding: 10px 0;
+	background: #ccc;
+	margin-top: 10px;
+}
+
+
+.lifeSport{
+    width: 100%;
+    padding: 10px;
+}
+.lifeSport >img{
+    width: 100%;
+}
+.lifeSportAll{
+    margin-top: 10px;
+}
+.lifeSportAll li{
+    float: left;
+    width: 50%;
+    padding: 0 5px;
+    text-align: center;
+}
+.lifeSportAll li a{
+    display: block;
+    box-shadow:0 0 5px #ccc;
+}
+.lifeSportAll li img{
+    width: 100%;
+}
+.lifeSport .lifeSportAll .word{
+    line-height:18px;
+	 display:block;
+	color:#8f8f94;
+	text-align:center;
+	padding:6px;
+	height:44px;
+	overflow:hidden
+}
+.lifeSport .lifeSportAll p span:nth-child(1){
+    color: #e92322;
+}
+.lifeSport .lifeSportAll .buy-now{
+    background:#006699;
+	color:#FFF;
+	margin:0 auto;
+	border:none;
+	display:block;
+	margin-bottom:10px;
+}

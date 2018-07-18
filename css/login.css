@@ -1,0 +1,64 @@
+body{
+	background:#FFF;
+    font-size:14px;
+}
+
+a{
+	color:#000;
+	text-decoration:none;
+}
+
+*{
+	margin:0;
+	padding:0;
+}
+
+ul{
+	list-style:none;
+}
+
+img{
+	vertical-align:top;
+}
+
+.mui-content{
+	background:#FFF;
+}
+
+.footer,.header{
+	background:#006699;
+	
+}
+
+.header .mui-title{
+	color:#FFF;
+}
+
+.header .mui-icon{
+	color:#FFF;
+}
+
+.footer .mui-tab-item{
+	color:#FFF;
+}
+
+.footer .mui-tab-item.mui-active{
+	color:darkorange;
+}
+.content{
+    padding: 44px 10px 50px 10px;
+}
+.content .mui-btn{
+    padding: 10px 120px ;
+}
+.content input{
+    font-size:14px;
+}
+.freeRegistration {
+    text-align: right;
+   line-height: 65px;
+   font-size: 14px;
+}
+.freeRegistration a{
+    color: #006699;
+}
